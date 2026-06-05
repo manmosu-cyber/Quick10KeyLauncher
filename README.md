@@ -31,6 +31,10 @@ Write the full path of the item you want to launch.
 ### Launching
 Press the corresponding numpad key to open the assigned item instantly.
 
+##VirusTotal scan result:
+[https://www.virustotal.com/gui/file/xxxxxxxxxxxxxxxxxxxx](https://www.virustotal.com/gui/file/3d02d4f16c1cce08bd3be75f2e82944f38ef73155edda057d39eff909e077526/details
+)<img width="1333" height="37" alt="image" src="https://github.com/user-attachments/assets/13d027e2-dd29-42ee-b320-afd4ae500f53" />
+
 ##Uninstallation
 Use “Apps & Features” in Windows settings or run the uninstaller from the installation directory.
 
