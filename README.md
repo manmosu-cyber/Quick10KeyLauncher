@@ -1,6 +1,9 @@
 ##Quick10KeyLauncher
 A lightweight Windows launcher that assigns files, folders, and URLs to numeric keypad hotkeys.
 
+## Screenshot
+![Main Screen](https://github.com/manmosu-cyber/Quick10KeyLauncher/blob/main/ScreenShot_main.png)
+
 ##Features
 Assign hotkeys to any file, folder, or URL
 Designed specifically for numeric keypad usage
